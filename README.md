@@ -1,24 +1,7 @@
-## Hi there 👋
+<p align="left">Hello World!</p>
 
-<!--
-**AHota1/AHota1** is a ✨ _special_<h1 align="center">Hi 👋, I'm Ananya</h1>
-- 🔭 I’m currently working on **parsing data tables and using ML for data prediction for Fermata Energy through the BTT Program**
+###
 
-- 🌱 I’m currently learning **ML and AI**
+<p align="left">Here is my most current profile update: I am working on my BTT project with Fermata Energy using ML and AI models and tools.<br><br>If you have any ideas or help, feel free to share them with me!</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
