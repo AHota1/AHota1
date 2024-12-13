@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 <!--
-**AHota1/AHota1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AHota1/AHota1** is a ✨ _special_<h1 align="center">Hi 👋, I'm Ananya</h1>
+- 🔭 I’m currently working on **parsing data tables and using ML for data prediction for Fermata Energy through the BTT Program**
+
+- 🌱 I’m currently learning **ML and AI**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
